@@ -1,6 +1,10 @@
 # Algoritmo de Curva Koch
 Algoritmo recursivo capaz de gerar imagens da curva de Koch.
 
+![ Saida5](/saidas/exemplo5.png)
+![ Saida1](/saidas/exemplo1.png)
+![ Saida6](/saidas/exemplo6.png)
+
 ## Instruções para execução:
 
 **Necessário:**
